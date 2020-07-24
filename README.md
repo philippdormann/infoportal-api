@@ -24,3 +24,7 @@
 |`wmrstrau`|Walter-Mohr-Realschule Traunreut|
 |`marktgym`|Gymnasium Marktbreit|
 |`prmpul`|Pater-Rupert-Mayer-Gymnasium|
+|`gn`|Gymnasium Neubiberg|
+|`witgymuc`|Wittelsbacher Gymnasium|
+|`veihoegym`|Gymnasium Veitshöchheim|
+|`tgrs`|Erzbischöfliche Theresia-Gerhardinger-Mädchenrealschule|
