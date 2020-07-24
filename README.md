@@ -30,3 +30,4 @@
 |`tgrs`|Erzbischöfliche Theresia-Gerhardinger-Mädchenrealschule|
 |`wvsgymuc`|Städtisches Werner-von-Siemens-Gymnasium München|
 |`heraugy`|Gymnasium Herzogenaurach|
+|`evbspar`|Emil-von-Behring-Gymnasium Spardorf|
