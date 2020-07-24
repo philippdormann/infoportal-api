@@ -16,3 +16,11 @@
 |`widipogy`|Wilhelm-Diess-Gymnasium Pocking|
 |`opgypul`|Otfried-Preußler-Gymnasium Pullach|
 |`ohagym`|Gymnasium Oberhaching|
+|`wigywue`|Wirsberg-Gymnasium|
+|`stagymu`|Staffelsee-Gymnasium Murnau|
+|`peugyau`|Peutinger-Gymnasium Augsburg|
+|`lessgynu`|Lessing-Gymnasium Neu-Ulm|
+|`rsache`|Achental-Realschule|
+|`wmrstrau`|Walter-Mohr-Realschule Traunreut|
+|`marktgym`|Gymnasium Marktbreit|
+|`prmpul`|Pater-Rupert-Mayer-Gymnasium|
