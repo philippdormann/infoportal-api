@@ -28,3 +28,5 @@
 |`witgymuc`|Wittelsbacher Gymnasium|
 |`veihoegym`|Gymnasium Veitshöchheim|
 |`tgrs`|Erzbischöfliche Theresia-Gerhardinger-Mädchenrealschule|
+|`wvsgymuc`|Städtisches Werner-von-Siemens-Gymnasium München|
+|`heraugy`|Gymnasium Herzogenaurach|
