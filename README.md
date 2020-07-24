@@ -1,4 +1,3 @@
-
 # infoportal-api
 
 ## 🏫 Known schools
@@ -14,3 +13,4 @@
 |`muenomuc`|Gymnasium München-Nord|
 |`joguwa`|Johannes-Gutenberg-Gymnasium Waldkirchen|
 |`rudigyau`|Rudolf-Diesel-Gymnasium Augsburg|
+|`widipogy`|Wilhelm-Diess-Gymnasium Pocking|
