@@ -14,3 +14,4 @@
 |`joguwa`|Johannes-Gutenberg-Gymnasium Waldkirchen|
 |`rudigyau`|Rudolf-Diesel-Gymnasium Augsburg|
 |`widipogy`|Wilhelm-Diess-Gymnasium Pocking|
+|`opgypul`|Otfried-Preußler-Gymnasium Pullach|
