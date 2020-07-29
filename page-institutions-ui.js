@@ -15,7 +15,11 @@ module.exports = (req, res) => {
 						<h4>${src.name}</h4>
 						Facility ShortCode: <code data-clipboard-text="${src.short}">${src.short}</code>
 						<br>
-						sample raw link: <a target="_blank" href="https://${src.short}.eltern-portal.org">https://${src.short}.eltern-portal.org</a>
+						Elternportal: <a target="_blank" href="https://${src.short}.eltern-portal.org">https://${src.short}.eltern-portal.org</a>
+						<br>
+						Info-Portal Lehrer: <a target="_blank" href="https://schule-infoportal.de/${src.short}/schule_portal">https://schule-infoportal.de/${src.short}/schule_portal</a>
+						<br>
+						Lehrer: <a target="_blank" href="../api/?s=${src.short}&a=lehrer">../api/?s=${src.short}&a=lehrer</a>
 						<hr>
 						`;
 	});
