@@ -13,7 +13,7 @@ Promise.all(promises).then((data) => {
 		// console.log('-------------------');
 		// console.log(i);
 		let $ = cheerio.load(data[count]);
-		const long_name = $('title').text();
+		const long_name = $('title').text().replace('Eltern-Portal ', '');
 		// console.log(long_name);
 		// console.log('-------------------');
 		resultArray.push({ short: i, name: long_name });
