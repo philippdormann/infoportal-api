@@ -6,7 +6,6 @@ const institutions = JSON.parse(
 const xmlrpc = require('xmlrpc');
 
 const start_it_up = (req, res) => {
-	console.log(req.query);
 	if (req.query.s) {
 		let found = institutions.find(function (e) {
 			return e.project == req.query.p && e.facility == req.query.e;
@@ -40,7 +39,6 @@ const start_it_up = (req, res) => {
 						// push to result array
 						result.push(v);
 					});
-					console.log(result);
 					return send_it(
 						200,
 						{ status: 'ok', payload: result },
