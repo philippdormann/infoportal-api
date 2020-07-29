@@ -36,149 +36,142 @@ yarn && yarn start`
 
 |shortcode|school|
 |--|--|
-|ohagym|Gymnasium Oberhaching|
+|abstgym|Anton-Bruckner-Gymnasium Straubing|
+|aegymuc|Albert-Einstein-Gymnasium München|  
 |agbersau|Agnes-Bernauer-Realschule Augsburg|
-|grafgym|Max-Mannheimer-Gymnasium Grafing|
-|ufggym|Gymnasium Unterföhring|
-|mgf|Maristengymnasium Fürstenzell|
+|albgyco|Gymnasium Albertinum|
+|alkemgym|Allgäu-Gymnasium Kempten|    
+|amgydie|Ammersee-Gymnasium Dießen|    
+|amorgym|Karl-Ernst-Gymnasium Amorbach|
+|anfragym|Anne-Frank-Gymnasium Erding|
+|apgying|Apian-Gymnasium Ingolstadt|  
+|asamgymuc|Asam-Gymnasium München|
+|astipagym|Adalbert-Stifter-Gymnasium Passau|
+|avegybu|Aventinus-Gymnasium Burghausen|
 |avhgym|Alexander-von-Humboldt-Gymnasium Schweinfurt|
-|ufggym|Gymnasium Unterföhring|
-|rudigyau|Rudolf-Diesel-Gymnasium Augsburg|
-|tassimgy|Tassilo-Gymnasium Simbach am Inn|
-|shr|Samuel-Heinicke-Realschule|
-|heraugy|Gymnasium Herzogenaurach|
-|donaugym|Gymnasium Donauwörth|
-|stbgym|Gymnasium Starnberg|
-|amgydie|Ammersee-Gymnasium Dießen|
-|apgying|Apian-Gymnasium Ingolstadt|
-|stagymu|Staffelsee-Gymnasium Murnau|
-|asamgymuc|Asam-Gymnasium München|
-|freicamgy|Camerloher-Gymnasium Freising|
-|freigymuc|Gymnasium Freiham|
-|avegybu|Aventinus-Gymnasium Burghausen|
-|widipogy|Wilhelm-Diess-Gymnasium Pocking|
-|mjsmuc|Staatliches Gymnasium Max-Josef-Stift München|
-|csgying|Christoph-Scheiner-Gymnasium|
-|nailagym|Hochfranken-Gymnasium Naila|
-|olchigym|Gymnasium Olching|
-|evbspar|Emil-von-Behring-Gymnasium Spardorf|
-|hoschgym|Gymnasium Hohenschwangau|
-|hoesiegym|Gymnasium Höhenkirchen-Siegertsbrunn|
-|omgyneu|Oskar-Maria-Graf-Gymnasium|
-|theogymuc|Städtisches Theodolinden-Gymnasium München|
-|stbgym|Gymnasium Starnberg|
-|rudigyau|Rudolf-Diesel-Gymnasium Augsburg|
-|freigymuc|Gymnasium Freiham|
+|bagyeich|Eichendorff-Gymnasium Bamberg|
+|baiblgy|Gymnasium Bad Aibling|
 |bbgymuc|Städtisches Bertolt-Brecht-Gymnasium München|
-|donaugym|Gymnasium Donauwörth|
-|asamgymuc|Asam-Gymnasium München|
-|mjsmuc|Staatliches Gymnasium Max-Josef-Stift München|
-|donaugym|Gymnasium Donauwörth|
-|ebgymuc|Städtisches Elsa-Brändström-Gymnasium München|
-|amgydie|Ammersee-Gymnasium Dießen|
-|avegybu|Aventinus-Gymnasium Burghausen|
-|stagymu|Staffelsee-Gymnasium Murnau|
-|theogymuc|Städtisches Theodolinden-Gymnasium München|
-|widipogy|Wilhelm-Diess-Gymnasium Pocking|
-|dzglan|Dominikus-Zimmermann-Gymnasium Landsberg am Lech|
-|thergymuc|Theresien-Gymnasium München|
-|gruewagym|Gymnasium Grünwald|
-|evbspar|Emil-von-Behring-Gymnasium Spardorf|
-|marbugym|Marianum Buxheim Gymnasium des Schulwerks der Diözese Augsburg|
-|tassimgy|Tassilo-Gymnasium Simbach am Inn|
-|witgymuc|Wittelsbacher-Gymnasium München|
-|lmguhag|Lise-Meitner-Gymnasium Unterhaching|
-|emagyha|Ernst-Mach-Gymnasium Haar|
-|gisgymuc|Gisela-Gymnasium München|
-|reuingym|Reuchlin-Gymnasium Ingolstadt|
-|lshmar|Staatliches Landschulheim Marquartstein|
-|hoschgym|Gymnasium Hohenschwangau|
-|hcgla|Hans-Carossa-Gymnasium|
-|freicamgy|Camerloher-Gymnasium Freising|
-|luigywas|Luitpold-Gymnasium Wasserburg am Inn|
-|ohagym|Gymnasium Oberhaching|
-|tgamuc|Theresia-Gerhardinger-Gymnasium am Anger|
-|welfen|Welfen-Gymnasium Schongau|
-|mwrsn|Maria Ward Realschule Neuhaus|
-|landau|Gymnasium Landau a.d. Isar|
-|wwgybay|Wirtschaftswissenschaftliches und Naturwissenschaftlich-technologisches Gymnasium der Stadt Bayreuth|
+|bskoegy|Benedikt-Stattler-Gymnasium Bad Kötzting|
+|bszneu||
 |casigym|Gymnasium Casimirianum Coburg|
-|trugymuc|Gymnasium Trudering|
+|cavigy|Caspar-Vischer-Gymnasium Kulmbach|
+|cjtgylau|Christoph-Jacob-Treu-Gymnasium Lauf|
+|csgying|Christoph-Scheiner-Gymnasium|
+|dantemuc|Dante-Gymnasium München|
+|deroko|Robert-Koch-Gymnasium Deggendorf|
+|domfreigy|Dom-Gymnasium Freising|
+|donaugym|Gymnasium Donauwörth|
+|dzglan|Dominikus-Zimmermann-Gymnasium Landsberg am Lech|
+|ebgymuc|Städtisches Elsa-Brändström-Gymnasium München|
+|emagyha|Ernst-Mach-Gymnasium Haar|
+|etahgybam|E.T.A. Hoffmann-Gymnasium Bamberg|
+|evbspar|Emil-von-Behring-Gymnasium Spardorf|
+|finrogym|Sebastian-Finsterwalder-Gymnasium Rosenheim|
+|framagym|Franz-Marc-Gymnasium|
+|freicamgy|Camerloher-Gymnasium Freising|
+|freigymuc|Gymnasium Freiham|
+|friebos|Berufliche Oberschule Friedberg|
+|friedgym|Gymnasium Friedberg|
+|froebelgsau|Fröbel-Grundschule Augsburg-Haunstetten|
+|gisgymuc|Gisela-Gymnasium München|
+|gn|Gymnasium Neubiberg|
+|gnadgym|Gnadenthal-Gymnasium Ingolstadt der Diözese Eichstätt|
+|go|Gymnasium Ottobrunn|
+|grafgym|Max-Mannheimer-Gymnasium Grafing|
+|gruewagym|Gymnasium Grünwald|
+|gsgstu|Geschwister-Scholl-Gymnasium Stuttgart-Sillenbuch|
+|gykisee|Gymnasium Kirchseeon|
+|gympan|Gymnasium Pfarrkirchen|
+|gymzwie|Gymnasium Zwiesel|
+|halegyla|Hans-Leinberger-Gymnasium Landshut|
+|halgywol|Hallertau-Gymnasium Wolnzach|
+|hcgla|Hans-Carossa-Gymnasium|
+|heraugy|Gymnasium Herzogenaurach|
+|hertrogym|Hertzhaimer-Gymnasium Trostberg|
+|hilgykem|Hildegardis-Gymnasium Kempten|
+|hoesiegym|Gymnasium Höhenkirchen-Siegertsbrunn|
+|hoschgym|Gymnasium Hohenschwangau|
+|hsgyhoe|Hanns-Seidel-Gymnasium Hösbach|
+|hugyvat|Humboldt-Gymnasium-Vaterstetten|
+|iguerogym|Ignaz-Günther-Gymnasium Rosenheim|
+|indomagy|Gymnasium Markt Indersdorf|
+|joheitrau|Johannes-Heidenhain-Gymnasium Traunreut|
+|jonegyro|Johannes-Nepomuk-Gymnasium|
+|jpgyho|Jean-Paul-Gymnasium Hof|
+|kagerd|Korbinian-Aigner-Gymnasium Erding|
+|karogyro|Karolinen-Gymnasium Rosenheim|
 |kgbarei|Karlsgymnasium Bad Reichenhall|
 |khgygrae|Kurt-Huber-Gymnasium Gräfelfing|
-|mathemuc|Maria-Theresia-Gymnasium|
-|roewuegy|Röntgen-Gymnasium Würzburg|
-|wigywue|Wirsberg-Gymnasium Würzburg|
+|klengymuc|Klenze-Gymnasium München|
 |ksigym|Kolleg der Schulbrüder Illertissen|
-|kagerd|Korbinian-Aigner-Gymnasium Erding|
-|ugriegym|Gymnasium Untergriesbach|
-|ovmgymuc|Oskar-von-Miller-Gymnasium München|
-|gympan|Gymnasium Pfarrkirchen|
-|hilgykem|Hildegardis-Gymnasium Kempten|
-|bagyeich|Eichendorff-Gymnasium Bamberg|
-|mwrsn|Maria Ward Realschule Neuhaus|
-|whgmuc|Wilhelm-Hausenstein-Gymnasium München|
-|cavigy|Caspar-Vischer-Gymnasium Kulmbach|
-|sosgymuc|Städtisches Sophie-Scholl-Gymnasium München|
-|joheitrau|Johannes-Heidenhain-Gymnasium Traunreut|
-|karogyro|Karolinen-Gymnasium Rosenheim|
-|abstgym|Anton-Bruckner-Gymnasium Straubing|
-|framagym|Franz-Marc-Gymnasium|
-|jpgyho|Jean-Paul-Gymnasium Hof|
-|theheugym|Theodor-Heuss-Gymnasium Nördlingen|
-|etahgybam|E.T.A. Hoffmann-Gymnasium Bamberg|
-|baiblgy|Gymnasium Bad Aibling|
-|domfreigy|Dom-Gymnasium Freising|
-|halegyla|Hans-Leinberger-Gymnasium Landshut|
-|gn|Gymnasium Neubiberg|
-|wggymuc|Städtisches Willi-Graf-Gymnasium München|
-|go|Gymnasium Ottobrunn|
-|ludgystra|Ludwigsgymnasium Straubing|
-|karogyro|Karolinen-Gymnasium Rosenheim|
-|hsgyhoe|Hanns-Seidel-Gymnasium Hösbach|
-|finrogym|Sebastian-Finsterwalder-Gymnasium Rosenheim|
-|gykisee|Gymnasium Kirchseeon|
-|gsgstu|Geschwister-Scholl-Gymnasium Stuttgart-Sillenbuch|
-|sontgym|Gymnasium Sonthofen|
-|michamuc|Michaeli-Gymnasium München|
-|hilgykem|Hildegardis-Gymnasium Kempten|
-|hertrogym|Hertzhaimer-Gymnasium Trostberg|
-|friebos|Berufliche Oberschule Friedberg|
-|amorgym|Karl-Ernst-Gymnasium Amorbach|
-|deroko|Robert-Koch-Gymnasium Deggendorf|
-|klengymuc|Klenze-Gymnasium München|
-|rottlaugy|Rottmayr-Gymnasium Laufen|
-|gnadgym|Gnadenthal-Gymnasium Ingolstadt der Diözese Eichstätt|
-|abstgym|Anton-Bruckner-Gymnasium Straubing|
-|bszneu||
-|merali|Meranier-Gymnasium Lichtenfels|
-|ohgyerl|Ohm-Gymnasium Erlangen|
-|riegywue|Riemenschneider-Gymnasium Würzburg|
-|bskoegy|Benedikt-Stattler-Gymnasium Bad Kötzting|
-|muenomuc|Gymnasium München-Nord|
-|dantemuc|Dante-Gymnasium München|
-|hugyvat|Humboldt-Gymnasium-Vaterstetten|
-|urstragym|Gymnasium der Ursulinen-Schulstiftung Straubing|
-|friedgym|Gymnasium Friedberg|
-|iguerogym|Ignaz-Günther-Gymnasium Rosenheim|
-|klengymuc|Klenze-Gymnasium München|
-|wggselb|Walter-Gropius-Gymnasium Selb|
-|ohgyerl|Ohm-Gymnasium Erlangen|
-|seligws|Wirtschaftsschule der Schulstiftung Seligenthal Landshut|
-|rottlaugy|Rottmayr-Gymnasium Laufen|
-|jonegyro|Johannes-Nepomuk-Gymnasium|
-|go|Gymnasium Ottobrunn|
-|abstgym|Anton-Bruckner-Gymnasium Straubing|
-|iguerogym|Ignaz-Günther-Gymnasium Rosenheim|
-|halgywol|Hallertau-Gymnasium Wolnzach|
-|mtgyerl|Städtisches Marie-Therese-Gymnasium Erlangen|
-|froebelgsau|Fröbel-Grundschule Augsburg-Haunstetten|
-|siewuegym|Siebold-Gymnasium Würzburg|
-|kagerd|Korbinian-Aigner-Gymnasium Erding|
-|bbgymuc|Städtisches Bertolt-Brecht-Gymnasium München|
-|whgga|Werner-Heisenberg-Gymnasium Garching|
-|albgyco|Gymnasium Albertinum|
-|widipogy|Wilhelm-Diess-Gymnasium Pocking|
-|nymph|Nymphenburger Schulen|
-|astipagym|Adalbert-Stifter-Gymnasium Passau|
+|landau|Gymnasium Landau a.d. Isar|
 |leigyalt|Leibniz-Gymnasium Altdorf|
+|lessgynu|Lessing-Gymnasium Neu-Ulm|
+|lmguhag|Lise-Meitner-Gymnasium Unterhaching|
+|lshmar|Staatliches Landschulheim Marquartstein|
+|ludgystra|Ludwigsgymnasium Straubing|
+|luigywas|Luitpold-Gymnasium Wasserburg am Inn|
+|luise|Städtisches Luisengymnasium|
+|lupomuc|Luitpold-Gymnasium München|
+|marbugym|Marianum Buxheim Gymnasium des Schulwerks der Diözese Augsburg|
+|mathemuc|Maria-Theresia-Gymnasium|
+|merali|Meranier-Gymnasium Lichtenfels|
+|mgf|Maristengymnasium Fürstenzell|
+|mggwue|Matthias-Grünewald-Gymnasium Würzburg|
+|michamuc|Michaeli-Gymnasium München|
+|mjsmuc|Staatliches Gymnasium Max-Josef-Stift München|
+|mogymuc|Staatliches Gymnasium München-Moosach|
+|mswas|Mittelschule Wasserburg am Inn|
+|mtgyerl|Städtisches Marie-Therese-Gymnasium Erlangen|
+|muenomuc|Gymnasium München-Nord|
+|mwgygz|Maria-Ward-Gymnasium Günzburg|
+|mwrsn|Maria Ward Realschule Neuhaus|
+|nailagym|Hochfranken-Gymnasium Naila|
+|neugynue|Neues Gymnasium Nürnberg|
+|nymph|Nymphenburger Schulen|
+|ohagym|Gymnasium Oberhaching|
+|ohgyerl|Ohm-Gymnasium Erlangen|
+|olchigym|Gymnasium Olching|
+|omgyneu|Oskar-Maria-Graf-Gymnasium|
+|ovmgymuc|Oskar-von-Miller-Gymnasium München|
+|pafgym|Schyren-Gymnasium|
+|peugyau|Peutinger-Gymnasium Augsburg|
+|prmpul|Erzbischöfliches Pater-Rupert-Mayer-Gymnasium Pullach|
+|puheigy|Gymnasium Puchheim|
+|reuingym|Reuchlin-Gymnasium Ingolstadt|
+|riegywue|Riemenschneider-Gymnasium Würzburg|
+|roewuegy|Röntgen-Gymnasium Würzburg|
+|rottlaugy|Rottmayr-Gymnasium Laufen|
+|rsache|Achental-Realschule Marquartstein|
+|rudigyau|Rudolf-Diesel-Gymnasium Augsburg|
+|rugymue|Ruperti-Gymnasium|
+|seligws|Wirtschaftsschule der Schulstiftung Seligenthal Landshut|
+|shr|Samuel-Heinicke-Realschule|
+|siewuegym|Siebold-Gymnasium Würzburg|
+|sontgym|Gymnasium Sonthofen|
+|sosgymuc|Städtisches Sophie-Scholl-Gymnasium München|
+|stagymu|Staffelsee-Gymnasium Murnau|
+|stbgym|Gymnasium Starnberg|
+|tassimgy|Tassilo-Gymnasium Simbach am Inn|
+|tgamuc|Theresia-Gerhardinger-Gymnasium am Anger|
+|tgrs|Erzbischöfliche Theresia-Gerhardinger-Mädchenrealschule|
+|theheugym|Theodor-Heuss-Gymnasium Nördlingen|
+|theogymuc|Städtisches Theodolinden-Gymnasium München|
+|thergymuc|Theresien-Gymnasium München|
+|trugymuc|Gymnasium Trudering|
+|ufggym|Gymnasium Unterföhring|
+|ugriegym|Gymnasium Untergriesbach|
+|urstragym|Gymnasium der Ursulinen-Schulstiftung Straubing|
+|veihoegym|Gymnasium Veitshöchheim|
+|welfen|Welfen-Gymnasium Schongau|
+|wggselb|Walter-Gropius-Gymnasium Selb|
+|wggymuc|Städtisches Willi-Graf-Gymnasium München|
+|whgga|Werner-Heisenberg-Gymnasium Garching|
+|whgmuc|Wilhelm-Hausenstein-Gymnasium München|
+|widipogy|Wilhelm-Diess-Gymnasium Pocking|
+|wigywue|Wirsberg-Gymnasium Würzburg|
+|witgymuc|Wittelsbacher-Gymnasium München|
+|wmrstrau|Walter-Mohr-Realschule Traunreut|
+|wvsgymuc|Städtisches Werner-von-Siemens-Gymnasium München|
+|wwgybay|Wirtschaftswissenschaftliches und Naturwissenschaftlich-technologisches Gymnasium der Stadt Bayreuth|
