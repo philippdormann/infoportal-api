@@ -20,6 +20,6 @@ Promise.all(promises).then((data) => {
 		console.log(`|${i}|${long_name}|`);
 		count++;
 	});
+	console.log('*****************');
+	console.log(JSON.stringify(resultArray));
 });
-console.log('*****************');
-console.log(JSON.stringify(resultArray));
