@@ -1,395 +1,205 @@
 [
-	{ "short": "ohagym", "name": "Eltern-Portal Gymnasium Oberhaching" },
-	{
-		"short": "agbersau",
-		"name": "Eltern-Portal Agnes-Bernauer-Realschule Augsburg"
-	},
-	{
-		"short": "grafgym",
-		"name": "Eltern-Portal Max-Mannheimer-Gymnasium Grafing"
-	},
-	{ "short": "ufggym", "name": "Eltern-Portal Gymnasium Unterföhring" },
-	{ "short": "mgf", "name": "Eltern-Portal Maristengymnasium Fürstenzell" },
+	{ "short": "ohagym", "name": "Gymnasium Oberhaching" },
+	{ "short": "agbersau", "name": "Agnes-Bernauer-Realschule Augsburg" },
+	{ "short": "grafgym", "name": "Max-Mannheimer-Gymnasium Grafing" },
+	{ "short": "ufggym", "name": "Gymnasium Unterföhring" },
+	{ "short": "mgf", "name": "Maristengymnasium Fürstenzell" },
 	{
 		"short": "avhgym",
-		"name": "Eltern-Portal Alexander-von-Humboldt-Gymnasium Schweinfurt"
+		"name": "Alexander-von-Humboldt-Gymnasium Schweinfurt"
 	},
-	{ "short": "ufggym", "name": "Eltern-Portal Gymnasium Unterföhring" },
-	{
-		"short": "rudigyau",
-		"name": "Eltern-Portal Rudolf-Diesel-Gymnasium Augsburg"
-	},
-	{
-		"short": "tassimgy",
-		"name": "Eltern-Portal Tassilo-Gymnasium Simbach am Inn"
-	},
-	{ "short": "shr", "name": "Eltern-Portal Samuel-Heinicke-Realschule" },
-	{ "short": "heraugy", "name": "Eltern-Portal Gymnasium Herzogenaurach" },
-	{ "short": "donaugym", "name": "Eltern-Portal Gymnasium Donauwörth" },
-	{ "short": "stbgym", "name": "Eltern-Portal Gymnasium Starnberg" },
-	{ "short": "amgydie", "name": "Eltern-Portal Ammersee-Gymnasium Dießen" },
-	{ "short": "apgying", "name": "Eltern-Portal Apian-Gymnasium Ingolstadt" },
-	{ "short": "stagymu", "name": "Eltern-Portal Staffelsee-Gymnasium Murnau" },
-	{ "short": "asamgymuc", "name": "Eltern-Portal Asam-Gymnasium München" },
-	{
-		"short": "freicamgy",
-		"name": "Eltern-Portal Camerloher-Gymnasium Freising"
-	},
-	{ "short": "freigymuc", "name": "Eltern-Portal Gymnasium Freiham" },
-	{
-		"short": "avegybu",
-		"name": "Eltern-Portal Aventinus-Gymnasium Burghausen"
-	},
-	{
-		"short": "widipogy",
-		"name": "Eltern-Portal Wilhelm-Diess-Gymnasium Pocking"
-	},
+	{ "short": "ufggym", "name": "Gymnasium Unterföhring" },
+	{ "short": "rudigyau", "name": "Rudolf-Diesel-Gymnasium Augsburg" },
+	{ "short": "tassimgy", "name": "Tassilo-Gymnasium Simbach am Inn" },
+	{ "short": "shr", "name": "Samuel-Heinicke-Realschule" },
+	{ "short": "heraugy", "name": "Gymnasium Herzogenaurach" },
+	{ "short": "donaugym", "name": "Gymnasium Donauwörth" },
+	{ "short": "stbgym", "name": "Gymnasium Starnberg" },
+	{ "short": "amgydie", "name": "Ammersee-Gymnasium Dießen" },
+	{ "short": "apgying", "name": "Apian-Gymnasium Ingolstadt" },
+	{ "short": "stagymu", "name": "Staffelsee-Gymnasium Murnau" },
+	{ "short": "asamgymuc", "name": "Asam-Gymnasium München" },
+	{ "short": "freicamgy", "name": "Camerloher-Gymnasium Freising" },
+	{ "short": "freigymuc", "name": "Gymnasium Freiham" },
+	{ "short": "avegybu", "name": "Aventinus-Gymnasium Burghausen" },
+	{ "short": "widipogy", "name": "Wilhelm-Diess-Gymnasium Pocking" },
 	{
 		"short": "mjsmuc",
-		"name": "Eltern-Portal Staatliches Gymnasium Max-Josef-Stift München"
+		"name": "Staatliches Gymnasium Max-Josef-Stift München"
 	},
-	{
-		"short": "csgying",
-		"name": "Eltern-Portal Christoph-Scheiner-Gymnasium"
-	},
-	{
-		"short": "nailagym",
-		"name": "Eltern-Portal Hochfranken-Gymnasium Naila"
-	},
-	{ "short": "olchigym", "name": "Eltern-Portal Gymnasium Olching" },
-	{
-		"short": "evbspar",
-		"name": "Eltern-Portal Emil-von-Behring-Gymnasium Spardorf"
-	},
-	{ "short": "hoschgym", "name": "Eltern-Portal Gymnasium Hohenschwangau" },
-	{
-		"short": "hoesiegym",
-		"name": "Eltern-Portal Gymnasium Höhenkirchen-Siegertsbrunn"
-	},
-	{ "short": "omgyneu", "name": "Eltern-Portal Oskar-Maria-Graf-Gymnasium" },
+	{ "short": "csgying", "name": "Christoph-Scheiner-Gymnasium" },
+	{ "short": "nailagym", "name": "Hochfranken-Gymnasium Naila" },
+	{ "short": "olchigym", "name": "Gymnasium Olching" },
+	{ "short": "evbspar", "name": "Emil-von-Behring-Gymnasium Spardorf" },
+	{ "short": "hoschgym", "name": "Gymnasium Hohenschwangau" },
+	{ "short": "hoesiegym", "name": "Gymnasium Höhenkirchen-Siegertsbrunn" },
+	{ "short": "omgyneu", "name": "Oskar-Maria-Graf-Gymnasium" },
 	{
 		"short": "theogymuc",
-		"name": "Eltern-Portal Städtisches Theodolinden-Gymnasium München"
+		"name": "Städtisches Theodolinden-Gymnasium München"
 	},
-	{ "short": "stbgym", "name": "Eltern-Portal Gymnasium Starnberg" },
-	{
-		"short": "rudigyau",
-		"name": "Eltern-Portal Rudolf-Diesel-Gymnasium Augsburg"
-	},
-	{ "short": "freigymuc", "name": "Eltern-Portal Gymnasium Freiham" },
+	{ "short": "stbgym", "name": "Gymnasium Starnberg" },
+	{ "short": "rudigyau", "name": "Rudolf-Diesel-Gymnasium Augsburg" },
+	{ "short": "freigymuc", "name": "Gymnasium Freiham" },
 	{
 		"short": "bbgymuc",
-		"name": "Eltern-Portal Städtisches Bertolt-Brecht-Gymnasium München"
+		"name": "Städtisches Bertolt-Brecht-Gymnasium München"
 	},
-	{ "short": "donaugym", "name": "Eltern-Portal Gymnasium Donauwörth" },
-	{ "short": "asamgymuc", "name": "Eltern-Portal Asam-Gymnasium München" },
+	{ "short": "donaugym", "name": "Gymnasium Donauwörth" },
+	{ "short": "asamgymuc", "name": "Asam-Gymnasium München" },
 	{
 		"short": "mjsmuc",
-		"name": "Eltern-Portal Staatliches Gymnasium Max-Josef-Stift München"
+		"name": "Staatliches Gymnasium Max-Josef-Stift München"
 	},
-	{ "short": "donaugym", "name": "Eltern-Portal Gymnasium Donauwörth" },
+	{ "short": "donaugym", "name": "Gymnasium Donauwörth" },
 	{
 		"short": "ebgymuc",
-		"name": "Eltern-Portal Städtisches Elsa-Brändström-Gymnasium München"
+		"name": "Städtisches Elsa-Brändström-Gymnasium München"
 	},
-	{ "short": "amgydie", "name": "Eltern-Portal Ammersee-Gymnasium Dießen" },
-	{
-		"short": "avegybu",
-		"name": "Eltern-Portal Aventinus-Gymnasium Burghausen"
-	},
-	{ "short": "stagymu", "name": "Eltern-Portal Staffelsee-Gymnasium Murnau" },
-	{
-		"short": "csgying",
-		"name": "Eltern-Portal Christoph-Scheiner-Gymnasium"
-	},
+	{ "short": "amgydie", "name": "Ammersee-Gymnasium Dießen" },
+	{ "short": "avegybu", "name": "Aventinus-Gymnasium Burghausen" },
+	{ "short": "stagymu", "name": "Staffelsee-Gymnasium Murnau" },
 	{
 		"short": "theogymuc",
-		"name": "Eltern-Portal Städtisches Theodolinden-Gymnasium München"
+		"name": "Städtisches Theodolinden-Gymnasium München"
 	},
-	{
-		"short": "widipogy",
-		"name": "Eltern-Portal Wilhelm-Diess-Gymnasium Pocking"
-	},
+	{ "short": "widipogy", "name": "Wilhelm-Diess-Gymnasium Pocking" },
 	{
 		"short": "dzglan",
-		"name": "Eltern-Portal Dominikus-Zimmermann-Gymnasium Landsberg am Lech"
+		"name": "Dominikus-Zimmermann-Gymnasium Landsberg am Lech"
 	},
-	{
-		"short": "thergymuc",
-		"name": "Eltern-Portal Theresien-Gymnasium München"
-	},
-	{ "short": "gruewagym", "name": "Eltern-Portal Gymnasium Grünwald" },
-	{
-		"short": "evbspar",
-		"name": "Eltern-Portal Emil-von-Behring-Gymnasium Spardorf"
-	},
+	{ "short": "thergymuc", "name": "Theresien-Gymnasium München" },
+	{ "short": "gruewagym", "name": "Gymnasium Grünwald" },
+	{ "short": "evbspar", "name": "Emil-von-Behring-Gymnasium Spardorf" },
 	{
 		"short": "marbugym",
-		"name": "Eltern-Portal Marianum Buxheim Gymnasium des Schulwerks der Diözese Augsburg"
+		"name": "Marianum Buxheim Gymnasium des Schulwerks der Diözese Augsburg"
 	},
-	{
-		"short": "tassimgy",
-		"name": "Eltern-Portal Tassilo-Gymnasium Simbach am Inn"
-	},
-	{
-		"short": "witgymuc",
-		"name": "Eltern-Portal Wittelsbacher-Gymnasium München"
-	},
-	{
-		"short": "lmguhag",
-		"name": "Eltern-Portal Lise-Meitner-Gymnasium Unterhaching"
-	},
-	{ "short": "emagyha", "name": "Eltern-Portal Ernst-Mach-Gymnasium Haar" },
-	{ "short": "gisgymuc", "name": "Eltern-Portal Gisela-Gymnasium München" },
-	{
-		"short": "reuingym",
-		"name": "Eltern-Portal Reuchlin-Gymnasium Ingolstadt"
-	},
-	{
-		"short": "lshmar",
-		"name": "Eltern-Portal Staatliches Landschulheim Marquartstein"
-	},
-	{ "short": "hoschgym", "name": "Eltern-Portal Gymnasium Hohenschwangau" },
-	{ "short": "hcgla", "name": "Eltern-Portal Hans-Carossa-Gymnasium" },
-	{
-		"short": "freicamgy",
-		"name": "Eltern-Portal Camerloher-Gymnasium Freising"
-	},
-	{
-		"short": "luigywas",
-		"name": "Eltern-Portal Luitpold-Gymnasium Wasserburg am Inn"
-	},
-	{ "short": "ohagym", "name": "Eltern-Portal Gymnasium Oberhaching" },
-	{
-		"short": "tgamuc",
-		"name": "Eltern-Portal Theresia-Gerhardinger-Gymnasium am Anger"
-	},
-	{ "short": "welfen", "name": "Eltern-Portal Welfen-Gymnasium Schongau" },
-	{ "short": "mwrsn", "name": "Eltern-Portal Maria Ward Realschule Neuhaus" },
-	{ "short": "landau", "name": "Eltern-Portal Gymnasium Landau a.d. Isar" },
+	{ "short": "tassimgy", "name": "Tassilo-Gymnasium Simbach am Inn" },
+	{ "short": "witgymuc", "name": "Wittelsbacher-Gymnasium München" },
+	{ "short": "lmguhag", "name": "Lise-Meitner-Gymnasium Unterhaching" },
+	{ "short": "emagyha", "name": "Ernst-Mach-Gymnasium Haar" },
+	{ "short": "gisgymuc", "name": "Gisela-Gymnasium München" },
+	{ "short": "reuingym", "name": "Reuchlin-Gymnasium Ingolstadt" },
+	{ "short": "lshmar", "name": "Staatliches Landschulheim Marquartstein" },
+	{ "short": "hoschgym", "name": "Gymnasium Hohenschwangau" },
+	{ "short": "hcgla", "name": "Hans-Carossa-Gymnasium" },
+	{ "short": "freicamgy", "name": "Camerloher-Gymnasium Freising" },
+	{ "short": "luigywas", "name": "Luitpold-Gymnasium Wasserburg am Inn" },
+	{ "short": "ohagym", "name": "Gymnasium Oberhaching" },
+	{ "short": "tgamuc", "name": "Theresia-Gerhardinger-Gymnasium am Anger" },
+	{ "short": "welfen", "name": "Welfen-Gymnasium Schongau" },
+	{ "short": "mwrsn", "name": "Maria Ward Realschule Neuhaus" },
+	{ "short": "landau", "name": "Gymnasium Landau a.d. Isar" },
 	{
 		"short": "wwgybay",
-		"name": "Eltern-Portal Wirtschaftswissenschaftliches und Naturwissenschaftlich-technologisches Gymnasium der Stadt Bayreuth"
+		"name": "Wirtschaftswissenschaftliches und Naturwissenschaftlich-technologisches Gymnasium der Stadt Bayreuth"
 	},
-	{
-		"short": "casigym",
-		"name": "Eltern-Portal Gymnasium Casimirianum Coburg"
-	},
-	{ "short": "trugymuc", "name": "Eltern-Portal Gymnasium Trudering" },
-	{
-		"short": "kgbarei",
-		"name": "Eltern-Portal Karlsgymnasium Bad Reichenhall"
-	},
-	{
-		"short": "khgygrae",
-		"name": "Eltern-Portal Kurt-Huber-Gymnasium Gräfelfing"
-	},
-	{ "short": "mathemuc", "name": "Eltern-Portal Maria-Theresia-Gymnasium" },
-	{ "short": "roewuegy", "name": "Eltern-Portal Röntgen-Gymnasium Würzburg" },
-	{ "short": "wigywue", "name": "Eltern-Portal Wirsberg-Gymnasium Würzburg" },
-	{
-		"short": "ksigym",
-		"name": "Eltern-Portal Kolleg der Schulbrüder Illertissen"
-	},
-	{
-		"short": "kagerd",
-		"name": "Eltern-Portal Korbinian-Aigner-Gymnasium Erding"
-	},
-	{ "short": "ugriegym", "name": "Eltern-Portal Gymnasium Untergriesbach" },
-	{
-		"short": "ovmgymuc",
-		"name": "Eltern-Portal Oskar-von-Miller-Gymnasium München"
-	},
-	{ "short": "gympan", "name": "Eltern-Portal Gymnasium Pfarrkirchen" },
-	{
-		"short": "hilgykem",
-		"name": "Eltern-Portal Hildegardis-Gymnasium Kempten"
-	},
-	{
-		"short": "bagyeich",
-		"name": "Eltern-Portal Eichendorff-Gymnasium Bamberg"
-	},
-	{ "short": "mwrsn", "name": "Eltern-Portal Maria Ward Realschule Neuhaus" },
-	{
-		"short": "whgmuc",
-		"name": "Eltern-Portal Wilhelm-Hausenstein-Gymnasium München"
-	},
-	{
-		"short": "cavigy",
-		"name": "Eltern-Portal Caspar-Vischer-Gymnasium Kulmbach"
-	},
+	{ "short": "casigym", "name": "Gymnasium Casimirianum Coburg" },
+	{ "short": "trugymuc", "name": "Gymnasium Trudering" },
+	{ "short": "kgbarei", "name": "Karlsgymnasium Bad Reichenhall" },
+	{ "short": "khgygrae", "name": "Kurt-Huber-Gymnasium Gräfelfing" },
+	{ "short": "mathemuc", "name": "Maria-Theresia-Gymnasium" },
+	{ "short": "roewuegy", "name": "Röntgen-Gymnasium Würzburg" },
+	{ "short": "wigywue", "name": "Wirsberg-Gymnasium Würzburg" },
+	{ "short": "ksigym", "name": "Kolleg der Schulbrüder Illertissen" },
+	{ "short": "kagerd", "name": "Korbinian-Aigner-Gymnasium Erding" },
+	{ "short": "ugriegym", "name": "Gymnasium Untergriesbach" },
+	{ "short": "ovmgymuc", "name": "Oskar-von-Miller-Gymnasium München" },
+	{ "short": "gympan", "name": "Gymnasium Pfarrkirchen" },
+	{ "short": "hilgykem", "name": "Hildegardis-Gymnasium Kempten" },
+	{ "short": "bagyeich", "name": "Eichendorff-Gymnasium Bamberg" },
+	{ "short": "mwrsn", "name": "Maria Ward Realschule Neuhaus" },
+	{ "short": "whgmuc", "name": "Wilhelm-Hausenstein-Gymnasium München" },
+	{ "short": "cavigy", "name": "Caspar-Vischer-Gymnasium Kulmbach" },
 	{
 		"short": "sosgymuc",
-		"name": "Eltern-Portal Städtisches Sophie-Scholl-Gymnasium München"
+		"name": "Städtisches Sophie-Scholl-Gymnasium München"
 	},
-	{
-		"short": "joheitrau",
-		"name": "Eltern-Portal Johannes-Heidenhain-Gymnasium Traunreut"
-	},
-	{
-		"short": "karogyro",
-		"name": "Eltern-Portal Karolinen-Gymnasium Rosenheim"
-	},
-	{
-		"short": "abstgym",
-		"name": "Eltern-Portal Anton-Bruckner-Gymnasium Straubing"
-	},
-	{ "short": "framagym", "name": "Eltern-Portal Franz-Marc-Gymnasium" },
-	{ "short": "jpgyho", "name": "Eltern-Portal Jean-Paul-Gymnasium Hof" },
-	{
-		"short": "theheugym",
-		"name": "Eltern-Portal Theodor-Heuss-Gymnasium Nördlingen"
-	},
-	{
-		"short": "etahgybam",
-		"name": "Eltern-Portal E.T.A. Hoffmann-Gymnasium Bamberg"
-	},
-	{ "short": "baiblgy", "name": "Eltern-Portal Gymnasium Bad Aibling" },
-	{ "short": "domfreigy", "name": "Eltern-Portal Dom-Gymnasium Freising" },
-	{
-		"short": "halegyla",
-		"name": "Eltern-Portal Hans-Leinberger-Gymnasium Landshut"
-	},
-	{ "short": "gn", "name": "Eltern-Portal Gymnasium Neubiberg" },
-	{
-		"short": "wggymuc",
-		"name": "Eltern-Portal Städtisches Willi-Graf-Gymnasium München"
-	},
-	{ "short": "go", "name": "Eltern-Portal Gymnasium Ottobrunn" },
-	{
-		"short": "ludgystra",
-		"name": "Eltern-Portal Ludwigsgymnasium Straubing"
-	},
-	{
-		"short": "karogyro",
-		"name": "Eltern-Portal Karolinen-Gymnasium Rosenheim"
-	},
-	{
-		"short": "hsgyhoe",
-		"name": "Eltern-Portal Hanns-Seidel-Gymnasium Hösbach"
-	},
+	{ "short": "joheitrau", "name": "Johannes-Heidenhain-Gymnasium Traunreut" },
+	{ "short": "karogyro", "name": "Karolinen-Gymnasium Rosenheim" },
+	{ "short": "abstgym", "name": "Anton-Bruckner-Gymnasium Straubing" },
+	{ "short": "framagym", "name": "Franz-Marc-Gymnasium" },
+	{ "short": "jpgyho", "name": "Jean-Paul-Gymnasium Hof" },
+	{ "short": "theheugym", "name": "Theodor-Heuss-Gymnasium Nördlingen" },
+	{ "short": "etahgybam", "name": "E.T.A. Hoffmann-Gymnasium Bamberg" },
+	{ "short": "baiblgy", "name": "Gymnasium Bad Aibling" },
+	{ "short": "domfreigy", "name": "Dom-Gymnasium Freising" },
+	{ "short": "halegyla", "name": "Hans-Leinberger-Gymnasium Landshut" },
+	{ "short": "gn", "name": "Gymnasium Neubiberg" },
+	{ "short": "wggymuc", "name": "Städtisches Willi-Graf-Gymnasium München" },
+	{ "short": "go", "name": "Gymnasium Ottobrunn" },
+	{ "short": "ludgystra", "name": "Ludwigsgymnasium Straubing" },
+	{ "short": "karogyro", "name": "Karolinen-Gymnasium Rosenheim" },
+	{ "short": "hsgyhoe", "name": "Hanns-Seidel-Gymnasium Hösbach" },
 	{
 		"short": "finrogym",
-		"name": "Eltern-Portal Sebastian-Finsterwalder-Gymnasium Rosenheim"
+		"name": "Sebastian-Finsterwalder-Gymnasium Rosenheim"
 	},
-	{ "short": "gykisee", "name": "Eltern-Portal Gymnasium Kirchseeon" },
+	{ "short": "gykisee", "name": "Gymnasium Kirchseeon" },
 	{
 		"short": "gsgstu",
-		"name": "Eltern-Portal Geschwister-Scholl-Gymnasium Stuttgart-Sillenbuch"
+		"name": "Geschwister-Scholl-Gymnasium Stuttgart-Sillenbuch"
 	},
-	{ "short": "sontgym", "name": "Eltern-Portal Gymnasium Sonthofen" },
-	{ "short": "michamuc", "name": "Eltern-Portal Michaeli-Gymnasium München" },
-	{
-		"short": "hilgykem",
-		"name": "Eltern-Portal Hildegardis-Gymnasium Kempten"
-	},
-	{
-		"short": "hertrogym",
-		"name": "Eltern-Portal Hertzhaimer-Gymnasium Trostberg"
-	},
-	{
-		"short": "friebos",
-		"name": "Eltern-Portal Berufliche Oberschule Friedberg"
-	},
-	{
-		"short": "amorgym",
-		"name": "Eltern-Portal Karl-Ernst-Gymnasium Amorbach"
-	},
-	{
-		"short": "deroko",
-		"name": "Eltern-Portal Robert-Koch-Gymnasium Deggendorf"
-	},
-	{ "short": "klengymuc", "name": "Eltern-Portal Klenze-Gymnasium München" },
-	{ "short": "rottlaugy", "name": "Eltern-Portal Rottmayr-Gymnasium Laufen" },
+	{ "short": "sontgym", "name": "Gymnasium Sonthofen" },
+	{ "short": "michamuc", "name": "Michaeli-Gymnasium München" },
+	{ "short": "hilgykem", "name": "Hildegardis-Gymnasium Kempten" },
+	{ "short": "hertrogym", "name": "Hertzhaimer-Gymnasium Trostberg" },
+	{ "short": "friebos", "name": "Berufliche Oberschule Friedberg" },
+	{ "short": "amorgym", "name": "Karl-Ernst-Gymnasium Amorbach" },
+	{ "short": "deroko", "name": "Robert-Koch-Gymnasium Deggendorf" },
+	{ "short": "klengymuc", "name": "Klenze-Gymnasium München" },
+	{ "short": "rottlaugy", "name": "Rottmayr-Gymnasium Laufen" },
 	{
 		"short": "gnadgym",
-		"name": "Eltern-Portal Gnadenthal-Gymnasium Ingolstadt der Diözese Eichstätt"
+		"name": "Gnadenthal-Gymnasium Ingolstadt der Diözese Eichstätt"
 	},
-	{
-		"short": "abstgym",
-		"name": "Eltern-Portal Anton-Bruckner-Gymnasium Straubing"
-	},
+	{ "short": "abstgym", "name": "Anton-Bruckner-Gymnasium Straubing" },
 	{ "short": "bszneu", "name": "" },
-	{
-		"short": "merali",
-		"name": "Eltern-Portal Meranier-Gymnasium Lichtenfels"
-	},
-	{ "short": "ohgyerl", "name": "Eltern-Portal Ohm-Gymnasium Erlangen" },
-	{
-		"short": "riegywue",
-		"name": "Eltern-Portal Riemenschneider-Gymnasium Würzburg"
-	},
-	{
-		"short": "bskoegy",
-		"name": "Eltern-Portal Benedikt-Stattler-Gymnasium Bad Kötzting"
-	},
-	{ "short": "muenomuc", "name": "Eltern-Portal Gymnasium München-Nord" },
-	{ "short": "dantemuc", "name": "Eltern-Portal Dante-Gymnasium München" },
-	{
-		"short": "hugyvat",
-		"name": "Eltern-Portal Humboldt-Gymnasium-Vaterstetten"
-	},
+	{ "short": "merali", "name": "Meranier-Gymnasium Lichtenfels" },
+	{ "short": "ohgyerl", "name": "Ohm-Gymnasium Erlangen" },
+	{ "short": "riegywue", "name": "Riemenschneider-Gymnasium Würzburg" },
+	{ "short": "bskoegy", "name": "Benedikt-Stattler-Gymnasium Bad Kötzting" },
+	{ "short": "muenomuc", "name": "Gymnasium München-Nord" },
+	{ "short": "dantemuc", "name": "Dante-Gymnasium München" },
+	{ "short": "hugyvat", "name": "Humboldt-Gymnasium-Vaterstetten" },
 	{
 		"short": "urstragym",
-		"name": "Eltern-Portal Gymnasium der Ursulinen-Schulstiftung Straubing"
+		"name": "Gymnasium der Ursulinen-Schulstiftung Straubing"
 	},
-	{ "short": "friedgym", "name": "Eltern-Portal Gymnasium Friedberg" },
-	{
-		"short": "iguerogym",
-		"name": "Eltern-Portal Ignaz-Günther-Gymnasium Rosenheim"
-	},
-	{ "short": "klengymuc", "name": "Eltern-Portal Klenze-Gymnasium München" },
-	{
-		"short": "wggselb",
-		"name": "Eltern-Portal Walter-Gropius-Gymnasium Selb"
-	},
-	{ "short": "ohgyerl", "name": "Eltern-Portal Ohm-Gymnasium Erlangen" },
+	{ "short": "friedgym", "name": "Gymnasium Friedberg" },
+	{ "short": "iguerogym", "name": "Ignaz-Günther-Gymnasium Rosenheim" },
+	{ "short": "klengymuc", "name": "Klenze-Gymnasium München" },
+	{ "short": "wggselb", "name": "Walter-Gropius-Gymnasium Selb" },
+	{ "short": "ohgyerl", "name": "Ohm-Gymnasium Erlangen" },
 	{
 		"short": "seligws",
-		"name": "Eltern-Portal Wirtschaftsschule der Schulstiftung Seligenthal Landshut"
+		"name": "Wirtschaftsschule der Schulstiftung Seligenthal Landshut"
 	},
-	{ "short": "rottlaugy", "name": "Eltern-Portal Rottmayr-Gymnasium Laufen" },
-	{ "short": "jonegyro", "name": "Eltern-Portal Johannes-Nepomuk-Gymnasium" },
-	{ "short": "go", "name": "Eltern-Portal Gymnasium Ottobrunn" },
-	{
-		"short": "abstgym",
-		"name": "Eltern-Portal Anton-Bruckner-Gymnasium Straubing"
-	},
-	{
-		"short": "iguerogym",
-		"name": "Eltern-Portal Ignaz-Günther-Gymnasium Rosenheim"
-	},
-	{
-		"short": "halgywol",
-		"name": "Eltern-Portal Hallertau-Gymnasium Wolnzach"
-	},
+	{ "short": "rottlaugy", "name": "Rottmayr-Gymnasium Laufen" },
+	{ "short": "jonegyro", "name": "Johannes-Nepomuk-Gymnasium" },
+	{ "short": "go", "name": "Gymnasium Ottobrunn" },
+	{ "short": "abstgym", "name": "Anton-Bruckner-Gymnasium Straubing" },
+	{ "short": "iguerogym", "name": "Ignaz-Günther-Gymnasium Rosenheim" },
+	{ "short": "halgywol", "name": "Hallertau-Gymnasium Wolnzach" },
 	{
 		"short": "mtgyerl",
-		"name": "Eltern-Portal Städtisches Marie-Therese-Gymnasium Erlangen"
+		"name": "Städtisches Marie-Therese-Gymnasium Erlangen"
 	},
 	{
 		"short": "froebelgsau",
-		"name": "Eltern-Portal Fröbel-Grundschule Augsburg-Haunstetten"
+		"name": "Fröbel-Grundschule Augsburg-Haunstetten"
 	},
-	{
-		"short": "siewuegym",
-		"name": "Eltern-Portal Siebold-Gymnasium Würzburg"
-	},
-	{
-		"short": "kagerd",
-		"name": "Eltern-Portal Korbinian-Aigner-Gymnasium Erding"
-	},
+	{ "short": "siewuegym", "name": "Siebold-Gymnasium Würzburg" },
+	{ "short": "kagerd", "name": "Korbinian-Aigner-Gymnasium Erding" },
 	{
 		"short": "bbgymuc",
-		"name": "Eltern-Portal Städtisches Bertolt-Brecht-Gymnasium München"
+		"name": "Städtisches Bertolt-Brecht-Gymnasium München"
 	},
-	{
-		"short": "whgga",
-		"name": "Eltern-Portal Werner-Heisenberg-Gymnasium Garching"
-	},
-	{ "short": "albgyco", "name": "Eltern-Portal Gymnasium Albertinum" },
-	{
-		"short": "widipogy",
-		"name": "Eltern-Portal Wilhelm-Diess-Gymnasium Pocking"
-	}
+	{ "short": "whgga", "name": "Werner-Heisenberg-Gymnasium Garching" },
+	{ "short": "albgyco", "name": "Gymnasium Albertinum" },
+	{ "short": "widipogy", "name": "Wilhelm-Diess-Gymnasium Pocking" },
+	{ "short": "nymph", "name": "Nymphenburger Schulen" },
+	{ "short": "astipagym", "name": "Adalbert-Stifter-Gymnasium Passau" },
+	{ "short": "leigyalt", "name": "Leibniz-Gymnasium Altdorf" }
 ]
