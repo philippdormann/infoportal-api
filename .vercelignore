@@ -1,0 +1,7 @@
+README.md
+server.js
+*.lock
+docker-compose.yml
+Dockerfile
+.prettierignore
+.prettierrc
