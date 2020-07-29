@@ -28,10 +28,16 @@ const start_it_up = (req, res) => {
 					value = value.split('-BREAKER-');
 					let result = [];
 					value.forEach((v) => {
+						// array formatting
 						v = v.replace(/\&nbsp;/gi, ' ');
 						v = v.replace(/<br \/>/gi, ' - ');
 						v = v.split(':"')[1];
 						v = v.split('#');
+						// convert Fächer to Array
+						v[2] = v[2] + ', ';
+						v[2] = v[2].split(', ');
+						v[2] = v[2].filter((item) => item);
+						// push to result array
 						result.push(v);
 					});
 					console.log(result);
