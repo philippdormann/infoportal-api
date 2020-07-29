@@ -4,9 +4,7 @@ grafgym
 ufggym
 mgf
 avhgym
-ufggym
 rudigyau
-tassimgy
 shr
 heraugy
 donaugym
@@ -18,7 +16,6 @@ asamgymuc
 freicamgy
 freigymuc
 avegybu
-widipogy
 mjsmuc
 csgying
 nailagym
@@ -32,14 +29,11 @@ stbgym
 rudigyau
 freigymuc
 bbgymuc
-donaugym
 asamgymuc
 mjsmuc
-donaugym
 ebgymuc
 amgydie
 avegybu
-stagymu
 theogymuc
 widipogy
 dzglan
@@ -96,14 +90,12 @@ gn
 wggymuc
 go
 ludgystra
-karogyro
 hsgyhoe
 finrogym
 gykisee
 gsgstu
 sontgym
 michamuc
-hilgykem
 hertrogym
 friebos
 amorgym
@@ -140,7 +132,6 @@ kagerd
 bbgymuc
 whgga
 albgyco
-widipogy
 nymph
 astipagym
 leigyalt
