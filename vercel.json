@@ -14,6 +14,10 @@
 			"dest": "/api/institutions-ui.js"
 		},
 		{
+			"src": "/lehrer-ui",
+			"dest": "/api/lehrer-ui.js"
+		},
+		{
 			"src": "./home.html",
 			"dest": "/api/home.html"
 		},
