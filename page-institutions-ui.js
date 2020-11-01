@@ -19,7 +19,9 @@ module.exports = (req, res) => {
 						<br>
 						Info-Portal Lehrer: <a target="_blank" href="https://schule-infoportal.de/login/${src.short}">https://schule-infoportal.de/login/${src.short}</a>
 						<br>
-						Lehrer: <a target="_blank" href="../api/?s=${src.short}&a=lehrer">../api/?s=${src.short}&a=lehrer</a>
+						Lehrer (API): <a target="_blank" href="../api/?s=${src.short}&a=lehrer">../api/?s=${src.short}&a=lehrer</a>
+						<br>
+						Lehrer (UI): <a target="_blank" href="../lehrer-ui/?s=${src.short}">../lehrer-ui/?s=${src.short}</a>
 						<hr>
 						`;
 	});
