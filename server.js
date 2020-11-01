@@ -3,7 +3,7 @@ const main = require('./api/index');
 const institutionsPage = require('./page-institutions-ui');
 const homePage = require('./page-home-ui');
 const app = express();
-const port = process.env.PORT || 80;
+const port = process.env.PORT || 4003;
 
 app.use('/institutions-json', (req, res) =>
 	res.sendFile('./institutions.json', { root: './' })
